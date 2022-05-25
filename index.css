@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+.nav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.horizontal{
+    display: flex;
+    justify-content: center;
+}
+.header input{
+    margin-left: 20px;
+    width: 5rem;
+}
+
+.item{
+    padding: 20px;
+}
+.text{
+    float: left;
+}
